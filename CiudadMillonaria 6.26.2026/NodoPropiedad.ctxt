@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NodoPropiedad
+comment1.params=propiedad
+comment1.target=NodoPropiedad(Propiedad)
+comment2.params=
+comment2.target=NodoPropiedad\ getSiguiente()
+comment3.params=
+comment3.target=Propiedad\ getPropiedad()
+comment4.params=n
+comment4.target=void\ setSiguiente(NodoPropiedad)
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=
+comment1.target=Menu()
+comment2.params=
+comment2.target=void\ mostrarMenu()
+comment3.params=
+comment3.target=void\ dibujarMarco()
+comment4.params=cantidad
+comment4.target=void\ dibujarLineas(int)
+comment5.params=
+comment5.target=void\ dibujarOpciones()
+comment6.params=texto
+comment6.target=void\ dibujarGeneral(java.lang.String)
+comment7.params=
+comment7.target=void\ dibujarLineaBase()
+comment8.params=
+comment8.target=void\ dibujarLineaTope()
+numComments=9

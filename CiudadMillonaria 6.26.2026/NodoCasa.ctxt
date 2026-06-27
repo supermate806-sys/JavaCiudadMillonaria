@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NodoCasa
+comment1.params=casa
+comment1.target=NodoCasa(Casa)
+comment2.params=
+comment2.target=NodoCasa\ getSiguiente()
+comment3.params=
+comment3.target=Casa\ getCasa()
+comment4.params=nodoC
+comment4.target=void\ setSiguiente(NodoCasa)
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NodoCarta
+comment1.params=c
+comment1.target=NodoCarta(Carta)
+comment2.params=n
+comment2.target=void\ setSiguiente(NodoCarta)
+comment3.params=
+comment3.target=Carta\ getCarta()
+comment4.params=
+comment4.target=NodoCarta\ getSiguiente()
+numComments=5
