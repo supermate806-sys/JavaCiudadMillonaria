@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Propiedad
+comment1.params=nombre\ precio\ alquilerBase\ precioCasa
+comment1.target=Propiedad(java.lang.String,\ int,\ int,\ int)
+comment10.params=
+comment10.target=void\ mostrarInfo()
+comment11.params=
+comment11.target=void\ mostrarInfoSinNombre()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=int\ getPrecio()
+comment4.params=
+comment4.target=int\ getAlquilerBase()
+comment5.params=
+comment5.target=int\ getPrecioCasa()
+comment6.params=
+comment6.target=ListaCasa\ getListaDeCasas()
+comment7.params=casa
+comment7.target=void\ agregarCasa(Casa)
+comment8.params=
+comment8.target=int\ contarCasas()
+comment9.params=
+comment9.target=int\ getValorTotal()
+numComments=13

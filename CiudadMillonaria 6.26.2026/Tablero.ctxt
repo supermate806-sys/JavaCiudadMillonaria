@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Tablero
+comment1.params=
+comment1.target=Tablero()
+comment2.params=c
+comment2.target=void\ agregarAlFinal(Casilla)
+comment3.params=
+comment3.target=NodoCasilla\ getSalida()
+comment4.params=
+comment4.target=NodoCasilla\ getUltima()
+comment5.params=actual\ posiciones
+comment5.target=NodoCasilla\ avanzar(NodoCasilla,\ int)
+comment6.params=actual\ posiciones
+comment6.target=NodoCasilla\ retroceder(NodoCasilla,\ int)
+comment7.params=nombre
+comment7.target=void\ buscarCasilla(java.lang.String)
+comment8.params=n
+comment8.target=NodoCasilla\ buscarCasilla(NodoCasilla)
+comment9.params=
+comment9.target=void\ mostrarTablero()
+numComments=10
